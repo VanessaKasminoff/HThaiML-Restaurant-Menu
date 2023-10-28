@@ -84,3 +84,22 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+.currentNav {
+    color: darkred;
+}
+
+.listStyleNone {
+    list-style: none;
+}
+
+#holidayBanner {
+    width: 100%;
+    background: green;
+    color:beige;
+}
+
+#footer {
+    background: white;
+    
+}
